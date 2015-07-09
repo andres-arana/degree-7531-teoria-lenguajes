@@ -5,7 +5,7 @@ sudo apt-get clean
 sudo apt-get update
 
 # Upgrade installed dependencies
-sudo apt-get upgrade -y
+# sudo apt-get upgrade -y
 
 # Install required packages
 sudo apt-get install -y haskell-platform texlive texlive-lang-spanish
